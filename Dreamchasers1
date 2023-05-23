@@ -1,11 +1,11 @@
 ##DESCRIPTION OF PROJECT##
 			                                      	WEB TECHNOLOGIES
 It is a web based application, which can be used for assessing the students and to maintain a tracker for scrutinizing and shortlisting the efficient individuals.
-In this we had created a test and schedule the test by using the 3 languages of PHP,JAVASCRIPT and HTML. 
+In this we had created a test and schedule the test by using the 3 languages of PHP, JAVASCRIPT and HTML. 
 The tests added over the user's dashboard should be provided with Schedule option. 
 On clicking the schedule option, there should be a provision to select the test, and the community whom should be assessed.
 which the user has to select whether it is MCQs or Descriptive questions from the drop-down menu. 
-Once the type is selected, they should be entering the number of questions they are about to provide . 
+Once the type is selected, they should be entering the number of questions they are about to provide. 
 Provided with these, duration should also be set for the assessment. 
 Once these steps are done, user should be prompted to a new page, from where they can feed the questions and it has to be taken to the database.
 Over the database, we should be maintaining the MCQs and Descriptive Questions separately. 
